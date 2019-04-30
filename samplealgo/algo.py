@@ -10,8 +10,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 NY = 'America/New_York'
 api = tradeapi.REST(
-    key_id='REPLACEME',
-    secret_key='REPLACEME',
+    key_id='PKX2EOU5XWX3SZE6N7T1',
+    secret_key='2BBemjKjJ3PDbcspSdY8wwXwV/XR3mutaZ7GRRVc',
     base_url='https://paper-api.alpaca.markets'
 )
 
